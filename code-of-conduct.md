@@ -22,7 +22,7 @@ What we produce is a complex whole made of many parts, it is the sum of many dre
 Collaboration reduces redundancy and improves the quality of our work. Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible.
 
 
-The OSAC Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/). You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the OSAC !!
+The OSAC Code of Conduct is licensed under the [GPL 3.0 license](https://www.gnu.org/licenses/quick-guide-gplv3.en.html). You may re-use it for your own project, and modify it as you wish.!!
 
 ## References
 1. [Ubuntu](https://www.ubuntu.com/community/code-of-conduct).
